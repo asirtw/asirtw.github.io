@@ -1236,7 +1236,7 @@ pre code {
     vertical-align: middle;
   }
   .links-of-author a::before {
-    background: #ff1b54;
+    background: #91f061;
     display: inline-block;
     margin-right: 3px;
     transform: translateY(-2px);
@@ -2720,15 +2720,4 @@ header.header {
   .sidebar {
     display: none;
   }
-}
-@font-face {
-  font-family: "LXGW WenKai TC";
-  src: url("/fonts/LXGWWenKaiTC/LXGWWenKaiTC-Regular.eot"); /* IE9 Compat Modes */
-  src: url("/fonts/LXGWWenKaiTC/LXGWWenKaiTC-Regular.eot?#iefix") format("embedded-opentype"), url("/fonts/LXGWWenKaiTC/LXGWWenKaiTC-Regular.otf") format("opentype"), url("/fonts/LXGWWenKaiTC/LXGWWenKaiTC-Regular.svg") format("svg"), url("/fonts/LXGWWenKaiTC/LXGWWenKaiTC-Regular.ttf") format("truetype"), url("/fonts/LXGWWenKaiTC/LXGWWenKaiTC-Regular.woff") format("woff"), url("/fonts/LXGWWenKaiTC/LXGWWenKaiTC-Regular.woff2") format("woff2"); /* Modern Browsers */
-  font-weight: normal;
-  font-style: normal;
-  font-display: swap;
-}
-body {
-  font-family: "LXGW WenKai TC";
 }
