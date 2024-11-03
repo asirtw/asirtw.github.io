@@ -520,7 +520,7 @@ pre figcaption a:hover {
 }
 pre,
 code {
-  font-family: consolas, Menlo, monospace, 'PingFang SC', 'Microsoft YaHei';
+  font-family: Microsoft JhengHei, consolas, Menlo, monospace, 'PingFang SC', 'Microsoft YaHei';
 }
 code {
   border-radius: 3px;
@@ -1236,7 +1236,7 @@ pre code {
     vertical-align: middle;
   }
   .links-of-author a::before {
-    background: #33f1ff;
+    background: #cb11ff;
     display: inline-block;
     margin-right: 3px;
     transform: translateY(-2px);
@@ -2629,6 +2629,7 @@ header.header {
     color: var(--text-color);
     margin-top: 12px;
     max-height: calc(100vh - 24px);
+    visibility: hidden;
   }
   .site-state-item {
     padding: 0 10px;
