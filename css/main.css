@@ -199,7 +199,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: LXGW WenKai TC, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  font-family: LXGW WenKai TC, LXGW WenKai TC, 'PingFang SC', 'Microsoft YaHei', sans-serif;
   font-weight: bold;
   line-height: 1.5;
   margin: 30px 0 15px;
@@ -1094,7 +1094,7 @@ pre code {
   color: var(--brand-hover-color);
 }
 .site-title {
-  font-family: LXGW WenKai TC, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  font-family: LXGW WenKai TC, LXGW WenKai TC, 'PingFang SC', 'Microsoft YaHei', sans-serif;
   font-size: 1.375em;
   font-weight: normal;
   line-height: 1.5;
@@ -1236,7 +1236,7 @@ pre code {
     vertical-align: middle;
   }
   .links-of-author a::before {
-    background: #ff448e;
+    background: #cb8395;
     display: inline-block;
     margin-right: 3px;
     transform: translateY(-2px);
@@ -1915,7 +1915,7 @@ pre code {
   width: 4px;
 }
 .post-body {
-  font-family: LXGW WenKai TC, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  font-family: LXGW WenKai TC, LXGW WenKai TC, 'PingFang SC', 'Microsoft YaHei', sans-serif;
   overflow-wrap: break-word;
 }
 @media (min-width: 1200px) {
@@ -2101,7 +2101,7 @@ pre code {
 }
 .posts-expand .post-meta-container {
   color: #999;
-  font-family: LXGW WenKai TC, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  font-family: LXGW WenKai TC, LXGW WenKai TC, 'PingFang SC', 'Microsoft YaHei', sans-serif;
   font-size: 0.75em;
   margin-top: 3px;
 }
