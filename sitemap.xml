@@ -2,15 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://spark.tw/posts/21567/</loc>
-    
-    <lastmod>2024-11-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://spark.tw/about/index.html</loc>
     
     <lastmod>2024-11-11</lastmod>
@@ -55,20 +46,6 @@
   </url>
 
   
-  <url>
-    <loc>https://spark.tw/tags/writing/</loc>
-    <lastmod>2024-11-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
 
-  
-  <url>
-    <loc>https://spark.tw/categories/%E5%AF%AB%E4%BD%9C/</loc>
-    <lastmod>2024-11-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
   
 </urlset>
