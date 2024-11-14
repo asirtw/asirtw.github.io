@@ -1236,7 +1236,7 @@ pre code {
     vertical-align: middle;
   }
   .links-of-author a::before {
-    background: #c1ffff;
+    background: #40d1ff;
     display: inline-block;
     margin-right: 3px;
     transform: translateY(-2px);
@@ -1376,17 +1376,17 @@ pre code {
   margin-left: 10px;
 }
 .sidebar-nav li:hover {
-  color: #ff2e63;
+  color: #dc5f00;
 }
 .sidebar-toc-active .sidebar-nav-toc,
 .sidebar-overview-active .sidebar-nav-overview {
-  border-bottom-color: #ff2e63;
-  color: #ff2e63;
+  border-bottom-color: #dc5f00;
+  color: #dc5f00;
   transition-delay: 0.2s;
 }
 .sidebar-toc-active .sidebar-nav-toc:hover,
 .sidebar-overview-active .sidebar-nav-overview:hover {
-  color: #ff2e63;
+  color: #dc5f00;
 }
 .sidebar-panel-container {
   align-items: start;
@@ -1479,7 +1479,7 @@ pre code {
   }
 }
 .sidebar-toggle:hover .toggle-line {
-  background: #ff2e63;
+  background: #dc5f00;
 }
 @media (any-hover: hover) {
   body:not(.sidebar-active) .sidebar-toggle:hover :first-child {
@@ -1545,14 +1545,14 @@ pre code {
   visibility: unset;
 }
 .post-toc .nav .active > a {
-  border-bottom-color: #ff2e63;
-  color: #ff2e63;
+  border-bottom-color: #dc5f00;
+  color: #dc5f00;
 }
 .post-toc .nav .active-current > a {
-  color: #ff2e63;
+  color: #dc5f00;
 }
 .post-toc .nav .active-current > a:hover {
-  color: #ff2e63;
+  color: #dc5f00;
 }
 .site-state {
   display: flex;
@@ -1751,7 +1751,7 @@ pre code {
   }
 }
 .back-to-top:hover {
-  color: #ff2e63;
+  color: #dc5f00;
 }
 .back-to-top.back-to-top-on {
   bottom: 30px;
@@ -2174,7 +2174,7 @@ pre code {
   justify-content: center;
 }
 .post-eof {
-  background: #ccc;
+  background: #373a40;
   height: 1px;
   margin: 80px auto 60px;
   width: 8%;
@@ -2212,17 +2212,17 @@ pre code {
 }
 .reward-container button {
   background: transparent;
-  color: #ff2e63;
+  color: #dc5f00;
   cursor: pointer;
   line-height: 2;
   padding: 0 15px;
-  border: 2px solid #ff2e63;
+  border: 2px solid #dc5f00;
   border-radius: 2px;
   outline: 0;
   vertical-align: text-top;
 }
 .reward-container button:hover {
-  background: #ff2e63;
+  background: #dc5f00;
   color: #fff;
 }
 .post-reward {
@@ -2606,14 +2606,14 @@ header.header {
 }
 .sub-menu .menu-item a:hover {
   background: transparent;
-  color: #ff2e63;
+  color: #dc5f00;
 }
 .sub-menu .menu-item-active {
-  border-bottom-color: #ff2e63;
-  color: #ff2e63;
+  border-bottom-color: #dc5f00;
+  color: #dc5f00;
 }
 .sub-menu .menu-item-active:hover {
-  border-bottom-color: #ff2e63;
+  border-bottom-color: #dc5f00;
 }
 @media (min-width: 992px) {
   .sidebar {
