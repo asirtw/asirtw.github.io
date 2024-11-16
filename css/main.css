@@ -1,5 +1,5 @@
 :root {
-  --body-bg-color: #9db2bf;
+  --body-bg-color: #393e46;
   --content-bg-color: #f9f7f7;
   --card-bg-color: #f5f5f5;
   --text-color: #31363f;
@@ -13,7 +13,7 @@
   --table-row-odd-bg-color: #f9f9f9;
   --table-row-hover-bg-color: #f5f5f5;
   --menu-item-bg-color: #f5f5f5;
-  --theme-color: #27374d;
+  --theme-color: #222831;
   --btn-default-bg: #fff;
   --btn-default-color: #31363f;
   --btn-default-border-color: #31363f;
@@ -1236,7 +1236,7 @@ pre code {
     vertical-align: middle;
   }
   .links-of-author a::before {
-    background: #acb4ff;
+    background: #40b147;
     display: inline-block;
     margin-right: 3px;
     transform: translateY(-2px);
@@ -1376,17 +1376,17 @@ pre code {
   margin-left: 10px;
 }
 .sidebar-nav li:hover {
-  color: #526d82;
+  color: #00adb5;
 }
 .sidebar-toc-active .sidebar-nav-toc,
 .sidebar-overview-active .sidebar-nav-overview {
-  border-bottom-color: #526d82;
-  color: #526d82;
+  border-bottom-color: #00adb5;
+  color: #00adb5;
   transition-delay: 0.2s;
 }
 .sidebar-toc-active .sidebar-nav-toc:hover,
 .sidebar-overview-active .sidebar-nav-overview:hover {
-  color: #526d82;
+  color: #00adb5;
 }
 .sidebar-panel-container {
   align-items: start;
@@ -1479,7 +1479,7 @@ pre code {
   }
 }
 .sidebar-toggle:hover .toggle-line {
-  background: #526d82;
+  background: #00adb5;
 }
 @media (any-hover: hover) {
   body:not(.sidebar-active) .sidebar-toggle:hover :first-child {
@@ -1545,14 +1545,14 @@ pre code {
   visibility: unset;
 }
 .post-toc .nav .active > a {
-  border-bottom-color: #526d82;
-  color: #526d82;
+  border-bottom-color: #00adb5;
+  color: #00adb5;
 }
 .post-toc .nav .active-current > a {
-  color: #526d82;
+  color: #00adb5;
 }
 .post-toc .nav .active-current > a:hover {
-  color: #526d82;
+  color: #00adb5;
 }
 .site-state {
   display: flex;
@@ -1577,7 +1577,7 @@ pre code {
   font-size: 0.8125em;
 }
 .footer {
-  color: $black;
+  color: #bbb;
   font-size: 0.875em;
   padding: 20px 0;
   transition: 0.2s ease-in-out;
@@ -1751,7 +1751,7 @@ pre code {
   }
 }
 .back-to-top:hover {
-  color: #526d82;
+  color: #00adb5;
 }
 .back-to-top.back-to-top-on {
   bottom: 30px;
@@ -2212,17 +2212,17 @@ pre code {
 }
 .reward-container button {
   background: transparent;
-  color: #526d82;
+  color: #00adb5;
   cursor: pointer;
   line-height: 2;
   padding: 0 15px;
-  border: 2px solid #526d82;
+  border: 2px solid #00adb5;
   border-radius: 2px;
   outline: 0;
   vertical-align: text-top;
 }
 .reward-container button:hover {
-  background: #526d82;
+  background: #00adb5;
   color: #fff;
 }
 .post-reward {
@@ -2606,14 +2606,14 @@ header.header {
 }
 .sub-menu .menu-item a:hover {
   background: transparent;
-  color: #526d82;
+  color: #00adb5;
 }
 .sub-menu .menu-item-active {
-  border-bottom-color: #526d82;
-  color: #526d82;
+  border-bottom-color: #00adb5;
+  color: #00adb5;
 }
 .sub-menu .menu-item-active:hover {
-  border-bottom-color: #526d82;
+  border-bottom-color: #00adb5;
 }
 @media (min-width: 992px) {
   .sidebar {
@@ -2740,10 +2740,10 @@ header.header {
 }
 .post-body h1,
 .post-body h2 {
-  border-bottom: 1px solid #9db2bf;
+  border-bottom: 1px solid #393e46;
 }
 .post-body h3 {
-  border-bottom: 1px dotted #9db2bf;
+  border-bottom: 1px dotted #393e46;
 }
 @media (min-width: 768px) and (max-width: 991px) {
   .main-inner {
