@@ -1,6 +1,6 @@
 :root {
   --body-bg-color: #393e46;
-  --content-bg-color: #f9f7f7;
+  --content-bg-color: #fff;
   --card-bg-color: #f5f5f5;
   --text-color: #31363f;
   --selection-bg: #262a30;
@@ -1236,7 +1236,7 @@ pre code {
     vertical-align: middle;
   }
   .links-of-author a::before {
-    background: #40b147;
+    background: #475867;
     display: inline-block;
     margin-right: 3px;
     transform: translateY(-2px);
